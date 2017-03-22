@@ -1,9 +1,23 @@
 {
-    "name": "Bracket checker",
-    "uri": "gh:zedapp/bracket-check",
-    "version": "0.1",
-    "description": "Checks balancing of brackets",
-    "files": [
-        "check.js"
-    ]
+  "name": "xenon-bracket-check",
+  "version": "0.0.0",
+  "description": "Language agnostic matching bracket syntax checker for Xenon.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenonApp/bracket-check.git"
+  },
+  "keywords": [
+    "xenon",
+    "xenon-package"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XenonApp/bracket-check/issues"
+  },
+  "homepage": "https://github.com/XenonApp/bracket-check#readme"
 }

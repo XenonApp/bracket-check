@@ -1,4 +1,4 @@
-var util = require("zed/util");
+var util = xenon.util;
 
 /**
  * inputs: text
